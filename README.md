@@ -27,20 +27,14 @@ It provides details about **education, skills, projects, leadership qualities**,
 1. Clone the repository:  
    ```sh
    git clone https://github.com/krishnakant1794/contact-card.git
-Navigate into the folder:
 
-sh
-Copy
-Edit
-cd contact-card
-Open index.html in your browser and enjoy the animated contact card!
 
-📷 Preview
+##📷 Preview
 
-📞 Contact Me
-📧 Email: krishnakk8281@gmail.com
-📌 LinkedIn: Krishnakant Kumar
-📌 GitHub: krishnakant1794
-📌 Instagram: kris.hna1794
+##📞 Contact Me
+##📧 Email: krishnakk8281@gmail.com
+##📌 LinkedIn: Krishnakant Kumar
+##📌 GitHub: krishnakant1794
+##📌 Instagram: kris.hna1794
 
-🚀 Developed with ❤️ by Krishnakant Kumar
+##🚀 Developed with ❤️ by Krishnakant Kumar
