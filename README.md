@@ -29,12 +29,12 @@ It provides details about **education, skills, projects, leadership qualities**,
    git clone https://github.com/krishnakant1794/contact-card.git
 
 
-##📷 Preview
+## 📷 Preview
 
-##📞 Contact Me
-##📧 Email: krishnakk8281@gmail.com
-##📌 LinkedIn: Krishnakant Kumar
-##📌 GitHub: krishnakant1794
-##📌 Instagram: kris.hna1794
+## 📞 Contact Me
+## 📧 Email: krishnakk8281@gmail.com
+## 📌 LinkedIn: Krishnakant Kumar
+## 📌 GitHub: krishnakant1794
+## 📌 Instagram: kris.hna1794
 
-##🚀 Developed with ❤️ by Krishnakant Kumar
+## 🚀 Developed with ❤️ by Krishnakant Kumar
