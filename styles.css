@@ -180,3 +180,22 @@ p {
 .instagram { color: #e1306c; }
 .github { color: #f5f5f5; }
 .twitter { color: #1da1f2; }
+.download-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 8px 15px;
+    background: #00d4ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s ease-in-out;
+}
+
+.download-btn:hover {
+    background: #008cff;
+}
+
+.download-btn i {
+    margin-right: 8px;
+}
